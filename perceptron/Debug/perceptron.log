@@ -1,0 +1,48 @@
+﻿  Source.cpp
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(139): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(149): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(176): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(190): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(190): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(220): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(221): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\creadal\desktop\nn 3rd term\perceptron\perceptron\source.cpp(38): warning C4715: 'Neuron::activate': not all control paths return a value
+  perceptron.vcxproj -> C:\Users\creadal\Desktop\NN 3rd term\perceptron\Debug\perceptron.exe
